@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+elasticsearch==8.10.0
+aiohttp
+python-dotenv
+pytest

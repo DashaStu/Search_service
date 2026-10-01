@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+.docker/
+.idea/
+.vscode/
+
+.env
+db_data/
